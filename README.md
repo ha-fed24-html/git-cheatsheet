@@ -11,7 +11,7 @@ git remote add origin <din-kopierade-url-här>
 git push -u origin main
 ```
 
-## Om du vill skapa ett projekt från Github:
+## Om du vill skapa ett nytt projekt via Github:
 * **Steg 1:** Skapa repot i Github med en readme. Du skapar en readme i första vyn bland checkboxarna där du skapar nya repon.
 * **Steg 2:** Klona ner projektet genom att klicka på 'clone'-knappen och kopiera URL:en som kommer upp där.
 * **Steg 3:** Gå till din terminal och ställ dig där du vill ha ditt nya projekt
